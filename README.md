@@ -23,11 +23,11 @@
 
 <h3> интерфейса</h3>
 <div>
-  <img src="screenshots/1.jpg" alt="Главное окно приложения" border="1" width="30%">
-  <img src="screenshots/2.jpg" alt="Форма редактирования отделов" border="1" width="30%">
-  <img src="screenshots/3.jpg" alt="Форма работы с сотрудниками" border="1" width="30%">
+  <img src="screenshots/1.jpg" alt="Главное окно приложения" border="1" width="50%">
+  <img src="screenshots/2.jpg" alt="Форма редактирования отделов" border="1" width="50%">
+  <img src="screenshots/3.jpg" alt="Форма работы с сотрудниками" border="1" width="50%">
 </div>
 
 <p style="color: #666; font-size: 0.9em; margin-top: 10px;">
-  Примечание: Все данные хранятся в локальной SQLite базе
+  Все данные хранятся в локальной SQLite базе
 </p>
